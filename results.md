@@ -17,12 +17,12 @@ The entire process is appended to the 'SimulationResults_Tej.txt' file. The answ
 
 How to run and test results:
 1. There are three java files in my program: Customer.java, LotteryMachine.java and Simulation.java
-2. 2. The package name is vt.challenge.tej
-3. 3. Create a folder of choice and in it create folders as vt\challenge\tej (tej folder inside challenge folder inside vt folder inside your folder)
-4. 4. Download the java files to tej folder
-5. 5. Using command prompt navigate to tej directory and compile the java files (javac *.java)
-6. 6. Now navigate to your folder i.e., move three folders back (cd..)
-7. 7. Run the program from command prompt (java vt.challenge.tej.Simulation)
-8. 8. Two output files will be created in your folder (SimulationResults_Tej.txt and SimulationReporting_Tej.txt)
-9. 9. The answers to the questions asked can be found in SimulationReporting_Tej.txt file
-10. 10. The answers can be tested/verified and the entire simulation process can be checked with the contents of the SimulationResults_Tej.txt file
+2. The package name is vt.challenge.tej
+3. Create a folder of choice and in it create folders as vt\challenge\tej (tej folder inside challenge folder inside vt folder inside your folder)
+4. Download the java files to tej folder
+5. Using command prompt navigate to tej directory and compile the java files (javac *.java)
+6. Now navigate to your folder i.e., move three folders back (cd..)
+7. Run the program from command prompt (java vt.challenge.tej.Simulation)
+8. Two output files will be created in your folder (SimulationResults_Tej.txt and SimulationReporting_Tej.txt)
+9. The answers to the questions asked can be found in SimulationReporting_Tej.txt file
+10. The answers can be tested/verified and the entire simulation process can be checked with the contents of the SimulationResults_Tej.txt file
